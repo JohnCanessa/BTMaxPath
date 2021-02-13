@@ -9,7 +9,7 @@ is the same. It is all based on wording.
 If interested in my comments and approach, I invite you to
 visit the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/13/binary-tree-maximum-path/
 
 Keep in mind that the best way to learn is to read and experiment.
 
